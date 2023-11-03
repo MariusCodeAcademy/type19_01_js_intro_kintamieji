@@ -21,3 +21,4 @@ console.log(person);
 console.log(person['age']);
 console.log(person.age);
 console.log(person.town);
+console.log(person.marks[2]);
