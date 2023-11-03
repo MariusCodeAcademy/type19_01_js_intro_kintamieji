@@ -30,7 +30,7 @@
 
 1. Susikurkite kintamuosius a, b ir c ir priskirkite jiems skaičių reikšmes. Apskaičiuokite šios lygties reikšmę: a \* b + c. Atspausdinkite rezultatą konsolėje.
 
-2. Susikurkite kintamuosius skaicius ir laipsnis ir paprašykite naudotojo įvesti skaičių ir laipsnį naudojant prompt() funkciją. Pakelkite skaičių kvadratu ir atspausdinkite rezultatą konsolėje.
+2. Susikurkite kintamaji skaicius ir paprašykite naudotojo įvesti skaičių naudojant prompt() funkciją. Pakelkite skaičių kvadratu ir atspausdinkite rezultatą konsolėje.
 
 3. Susikurkite kintamąjį vardas ir paprašykite naudotojo įvesti savo vardą naudojant prompt() funkciją. Pasveikinkite naudotoją, atspausdindami "Labas, {vardas}!" konsolėje.
 
