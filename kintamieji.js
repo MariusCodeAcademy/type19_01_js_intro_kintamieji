@@ -37,9 +37,17 @@ console.log(userName); // null
 
 // susikurtumes po kitnamaji savo
 // amziui
+let myAge = 35;
 // miestui
+let myTown = 'CapeTown';
 // Vardui
+let myName = 'James';
 
 // kintamji kiek man bus metu po 5 metu
+let ageAfter = myAge + 5;
 
 // atspausdinti reikmes su console.log()
+
+console.log('ageAfter:', ageAfter);
+console.log('myAge ===', myAge);
+console.log('isUserLoggedIn ===', isUserLoggedIn);
